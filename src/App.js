@@ -9,14 +9,7 @@ import OtpPage from './pages/OtpPage';
 function App() {
   return (
     <div>
-    
-      <Routes>
-        <Route path='/' element={<Home/>} />
-        <Route path="/user_profile" element={<UserProfile/>}/>
-        <Route path="/shopkeeper_profile" element={<ShopkeeperProfile/>} />
-        <Route path='/otp' element={<OtpPage/>} />
-      </Routes>
-    
+
     </div>
   );
 }
