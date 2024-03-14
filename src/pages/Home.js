@@ -4,6 +4,7 @@ import ContactUs from '../components/Home/ContactUs'
 import SellEwaste from '../components/Home/SellEwaste'
 import Steps from '../components/Home/Steps'
 
+
 const Home = () => {
   return (
     <div>
