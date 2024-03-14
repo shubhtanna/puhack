@@ -7,6 +7,7 @@ import ShopkeeperProfile from './pages/ShopkeeperProfile';
 
 function App() {
   return (
+    <div>
     </div>
   );
 }
